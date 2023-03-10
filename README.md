@@ -29,7 +29,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-###Contributing
+### Contributing
 
 ---
 
